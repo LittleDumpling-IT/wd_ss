@@ -1,0 +1,51 @@
+server:
+  port: 9001
+
+spring:
+  datasource:
+    type: org.apache.tomcat.jdbc.pool.DataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.80.132:3306/wendu?serverTimezone=UTC
+    username: root
+    password: root
+    tomcat:
+      initial-size: 10
+      max-wait: 100
+      max-active: 100
+      max-idle: 20
+      min-idle: 10
+      validation-query: SELECT 1
+      test-on-borrow: true
+      test-on-return: true
+      test-while-idle: true
+      validation-interval: 10000
+      max-age: 300000
+  servlet:
+    multipart:
+      max-file-size: -1
+      max-request-size: -1
+  aop:
+    proxy-target-class: true
+    auto: true
+
+# jwt自定义属性配置
+jwt:
+  config:
+    # 过期时间，单位：毫秒
+    expiry: 6000000
+    # 签发者
+    issuer: greedystar
+    # 密钥
+    base64Security: greedystar_base64Security
+
+wendufile:
+    images:
+    videos:
+
+mybatis:
+  # 实体类别名包路径
+  type-aliases-package: com.wendu.model
+  # 映射文件路径
+  # mapper-locations: classpath:mappers/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

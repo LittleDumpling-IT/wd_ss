@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f2f764c-3739-4d0f-a405-054062e45cc8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/wendu-utils/target/" />
+    <ignored path="$PROJECT_DIR$/wendu/target/" />
+    <ignored path="$PROJECT_DIR$/wendu-model/target/" />
+    <ignored path="$PROJECT_DIR$/wendu-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/goods/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/goods/GoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1090">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1761#1762#0" expanded="true" />
+                <element signature="e#1845#1846#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/GoodsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/GoodsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-448">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2455#2456#0" expanded="true" />
+                <element signature="e#3569#3570#0" expanded="true" />
+                <element signature="e#3718#3719#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wendu-model/src/main/java/com/wendu/model/Goods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Basics</find>
+      <find>commentService</find>
+      <find>goodsService</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Comment</replace>
+      <replace>Goods</replace>
+      <replace>Order</replace>
+      <replace>goodsService</replace>
+      <replace>orderService</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/GoodsDao.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/BasicsService.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/wendu-model/src/main/java/com/wendu/model/Comment.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/CommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wendu-model/src/main/java/com/wendu/model/Goods.java" />
+        <option value="$PROJECT_DIR$/wendu-model/src/main/java/com/wendu/model/Order.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wendu-utils/src/main/java/com/wendu/elm/ElemeConstants.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/elm/ElemeConstants.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/elm/ElemeServlet.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/elm/InfoServlet.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/elm/StartServlet.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/elm/ElemeServlet.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/business/BusinessController.java" />
+        <option value="$PROJECT_DIR$/wendu-utils/src/main/java/com/wendu/jwt/JwtProperty.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/business/AdminController.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/security/WebConf.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/security/WebConf.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/WebConf.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/LoginFailureHandler.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/jwt/JwtUtil.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/WebConfing.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/WebConfig.java" />
+        <option value="$PROJECT_DIR$/wendu/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/MyAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/LogoutSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/LoginSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/JwtAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/CustomWebAuthenticationDetails.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/CustomAuthenticationDetailsSource.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/AuthEntryPoint.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/BasicsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wendu-service/pom.xml" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/business/BasicsController.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/goods/OrderController.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/user/AdminController.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/goods/CommentController.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/goods/GoodsController.java" />
+        <option value="$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/GoodsServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="D:/Java1.8/apache-maven-3.5.2" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="D:\Java1.8\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=gbk" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="53" />
+    <option name="width" value="1555" />
+    <option name="height" value="925" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wendu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wendu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wendu" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceImpl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wendu.elm" />
+      <recent name="com.wendu.serviceImpl" />
+      <recent name="com.wendu.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\wendu_parent\wendu\src\main\java\com\wendu\config\jwt" />
+      <recent name="G:\wendu_parent\wendu\src\main\java\com\wendu\config\security" />
+      <recent name="G:\wendu_parent\wendu-utils\src\main\java\com\wendu" />
+      <recent name="G:\wendu_parent\wendu\src\main\java\com\wendu\elm" />
+      <recent name="G:\wendu_parent\wendu-service\src\main\java\com\wendu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Initiallizer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="wendu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wendu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wendu.Initiallizer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Initiallizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f2f764c-3739-4d0f-a405-054062e45cc8" name="Default Changelist" comment="" />
+      <created>1576476801352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576476801352</updated>
+      <workItem from="1576476803792" duration="11850000" />
+      <workItem from="1576490600039" duration="5918000" />
+      <workItem from="1576496905659" duration="2401000" />
+      <workItem from="1576510572707" duration="8167000" />
+      <workItem from="1576519871571" duration="466000" />
+      <workItem from="1576547686475" duration="10350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39152000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32799324" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32756132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54256856" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3251445" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32363012" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32908848" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.2613828" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="JSF" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Google Cloud Storage" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Nativescript Palette" order="8" />
+      <window_info anchor="right" id="Mybatis datasource" order="9" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="CodeStream" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="13" />
+      <window_info anchor="right" id="CDI" order="14" />
+      <window_info anchor="right" id="Bean Validation" order="15" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/wendu-model/src/main/java/com/wendu/model/Goods.java</url>
+          <line>22</line>
+          <properties field="storeId" class="com.wendu.model.Goods" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wendu-utils/src/main/java/com/wendu/jwt/JwtConfig.java" />
+    <entry file="file://$PROJECT_DIR$/wendu-utils/src/main/java/com/wendu/jwt/JwtProperty.java" />
+    <entry file="file://$PROJECT_DIR$/wendu-utils/src/main/java/com/wendu/jwt/JwtUtil.java" />
+    <entry file="file://$PROJECT_DIR$/wendu-utils/src/main/java/com/wendu/elm/ElemeConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-utils/src/main/java/com/wendu/elm/ElemeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/business/AdminController.java" />
+    <entry file="file://$PROJECT_DIR$/wendu-utils/src/main/java/com/wendu/entily/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/business/BusinessController.java" />
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="313" column="33" selection-start-line="313" selection-start-column="33" selection-end-line="313" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.13.RELEASE/spring-security-core-4.2.13.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/WebSecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/Initiallizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-model/src/main/java/com/wendu/model/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/jwt/JwtConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/jwt/JwtProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/jwt/JwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/swagger/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/swagger/SwaggerModelAttributeParameterExpander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2380">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/MyAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1993#1994#0" expanded="true" />
+            <element signature="e#2020#2021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/LogoutSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/LoginSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/LoginFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/JwtAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/CustomWebAuthenticationDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/CustomAuthenticationDetailsSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/config/security/AuthEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-785">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1298">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/BasicsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1905">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1800#1801#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1956#1957#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/CommentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="57" column="52" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+            <element signature="e#1774#1775#0" expanded="true" />
+            <element signature="e#1861#1862#0" expanded="true" />
+            <element signature="e#1899#1900#0" expanded="true" />
+            <element signature="e#1989#1990#0" expanded="true" />
+            <element signature="e#2048#2049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2044">
+          <caret line="73" column="43" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/user/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/goods/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/CommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/BasicsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/business/BasicsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2212">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/goods/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-model/src/main/java/com/wendu/model/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu/src/main/java/com/wendu/controller/goods/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1090">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1761#1762#0" expanded="true" />
+            <element signature="e#1845#1846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wendu-service/src/main/java/com/wendu/serviceImpl/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-448">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2455#2456#0" expanded="true" />
+            <element signature="e#3569#3570#0" expanded="true" />
+            <element signature="e#3718#3719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
