@@ -18,7 +18,7 @@
     <properties>
         <springboot.version>2.1.6.RELEASE</springboot.version>
         <lombok.version>1.16.8</lombok.version>
-        <mysql.version>5.1.46</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <tomcat.version>9.0.21</tomcat.version>
         <swagger.version>2.6.1</swagger.version>
         <google.guava.version>25.1-jre</google.guava.version>
