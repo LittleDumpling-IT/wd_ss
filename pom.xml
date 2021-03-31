@@ -21,7 +21,7 @@
         <mysql.version>5.1.46</mysql.version>
         <tomcat.version>9.0.21</tomcat.version>
         <swagger.version>2.6.1</swagger.version>
-        <google.guava.version>25.1-jre</google.guava.version>
+        <google.guava.version>29.0-jre</google.guava.version>
         <security.jwt.version>1.0.9.RELEASE</security.jwt.version>
         <jjwt.version>0.9.0</jjwt.version>
         <fastjson.version>1.2.15</fastjson.version>
